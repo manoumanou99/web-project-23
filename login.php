@@ -36,7 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
 <head>
     <title>Login</title>
-    <link rel="stylesheet" type="text/css" href="../styles/login-style.css">
+    <link rel="stylesheet" type="text/css" href="login-style.css">
     <script src="../scripts/validateForm.js"></script>
 </head>
 
